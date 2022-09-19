@@ -77,9 +77,9 @@ https://github.com/NFTERA/mev-boost-windows/releases
 
 # Maintainers
 
-- [@metachris](https://github.com/metachris)
-- [@Ruteri](https://github.com/Ruteri)
-- [@elopio](https://github.com/elopio)
+- [@NFTERA](https://github.com/NFTERA)
+- [@lcalasso27](https://github.com/lcalasso27)
+- [@laneveyga313](https://github.com/laneveyga313)
 
 # Contributing
 
