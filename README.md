@@ -20,7 +20,7 @@ PoS node operators must run three pieces of software: a validator client, consen
 
 Relays aggregate blocks from **multiple** builders in order to select the block with the highest fees. One instance of MEV-boost can be configured by a validator to connect to **multiple** relays. The Consensus Layer client of a validator proposes the most profitable block received from MEV-boost to the Ethereum network for attestation and block inclusion.
 
-![mev-boost service integration overview](https://raw.githubusercontent.com/NFTERA/mev-boost-windows/main/docs/mev-boost-integration-overview.png)
+![mev-boost service integration overview](https://raw.githubusercontent.com/flashbots/mev-boost/main/docs/mev-boost-integration-overview.png)
 
 ## Who can run MEV-Boost?
 
