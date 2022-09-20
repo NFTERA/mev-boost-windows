@@ -7,7 +7,7 @@ require (
 	github.com/flashbots/go-boost-utils v1.1.1
 	github.com/flashbots/go-utils v0.4.5
 	github.com/gorilla/mux v1.8.0
-	github.com/sirupsen/logrus v1.8.1
+	github.com/sirupsen/logrus v1.9.0
 	github.com/stretchr/testify v1.7.1
 )
 
